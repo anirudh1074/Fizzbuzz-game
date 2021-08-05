@@ -1,0 +1,23 @@
+body{
+    margin-top: 250px;
+    text-align:center;
+    background:orange;
+  }
+   
+    button {
+    transition-duration: 0.4s;
+    text-decoration-style:dashed;
+     border-radius: 25px;
+     height: 50px; 
+     width:80px;
+  }
+     
+  button:hover {
+    background-color: white; 
+    color: BLACK;
+  }
+  
+  #input{
+      border-radius: 25px;
+      height:50px;  
+  }
